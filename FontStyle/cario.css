@@ -1,0 +1,9 @@
+@font-face{
+    font-family: Cairo;
+    src: url(Cairo-VariableFont_slnt,wght.ttf) format("truetype"); 
+}
+body{
+    font-family: "Cairo", Arial, Helvetica, sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
